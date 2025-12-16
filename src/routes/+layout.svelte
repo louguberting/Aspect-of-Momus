@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
-<div class="navbar bg-base-300">
+<div class="navbar bg-base-300 sticky top-0">
   <button class="btn btn-ghost text-xl">Aspect of Momus</button>
 </div>
 {@render children()}
