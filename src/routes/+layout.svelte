@@ -13,7 +13,7 @@
 <footer class="footer-center footer bg-base-300 p-4 text-base-content sm:footer-horizontal">
 	<div class="avatar">
 		<div class="mask w-24 mask-circle">
-			<img class="object-top grayscale" src="src/lib/assets/Momus_Tarot.jpg" />
+			<img class="object-top grayscale" src="static/Momus_Tarot.jpg" />
 		</div>
 	</div>
 	<aside>
