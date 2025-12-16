@@ -5,7 +5,9 @@ Gather round, children. Your dear old friend, Momus, is going to tell you a tale
 
 Winner's meaning here was that sometimes the politcal intent of a widget was worth a hell of a lot more than what you could sell it for. If your aim was to control the productive capacity and imagination of every leaving human it could be worth trillions.
 
-From my window, I can see the proverbial smoldering crater where Anthropic's office once stood. The inferno of early Generative AI burned brightly in the late 2020s until it consumed multiple billions in funding and nearly brought the global financial system to its knees. But if you ask the crooks behind it was this all worth it they'd have to say yes. Not on any balance sheet but in instantiating a world where workers are even more alienated not only from their work but their ideas and creativity. While certain companies have disappeared, the survivors have only grown stronger. Generative AI has reshaped the way
+From my window, I can see the proverbial smoldering crater where Anthropic's office once stood. The inferno of early Generative AI burned brightly in the late 2020s until it consumed multiple billions in funding and nearly brought the global financial system to its knees. But if you ask the crooks behind it was this all worth it they'd have to say yes. Not on any balance sheet but in instantiating a world where workers are even more alienated not only from their work but their ideas and creativity. While certain companies have disappeared, the survivors have only grown stronger. Generative AI has reshaped the way so many people work, study and live.
+
+**Future Wheel Content
 
 Let us turn now our horrible antennae to an overgrown jungle of poured concrete and twisted steel girders, that horrible paradise to international capital, a city that should thank the Gods every day that Dubai is 50% tackier and more repressive, Singapore.
 
