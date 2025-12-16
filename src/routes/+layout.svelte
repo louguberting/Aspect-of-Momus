@@ -12,7 +12,8 @@
 {@render children()}
 <footer class="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4">
   <aside>
-    <p>Copyright © {new Date().getFullYear()} - All rights reserved by Momus</p>
+    <p>Copyright © {new Date().getFullYear()+12} - All rights reserved by Momus</p>
 	<p>Momus does not now nor has it ever promoted online falsehoods</p>
+	<p>Random Disclaimer: This blog is a work of speculative fiction and if you believe it that is on you, babe.</p>
   </aside>
 </footer>
