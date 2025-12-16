@@ -1,38 +1,7 @@
-# sv
+# Speculative-Blog-Post
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+For the Understanding Culture for Design course at Singapore University of Technology and Design we were challenged to imagine a speculative future and design a product for a user group in that future.
 
-## Creating a project
+My team decided to create embodied learning experiences for university students in 2035. For this project, we also needed to create artifacts from this speculative future. This project represents a blog post by someone critical of product our team is creating.
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```sh
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+This blog post is fictional and any resemblance to real people is a coincidence. 
