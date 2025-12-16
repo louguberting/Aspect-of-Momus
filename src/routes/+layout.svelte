@@ -5,7 +5,10 @@
 	let { children } = $props();
 </script>
 
-<svelte:head><link rel="icon" href={favicon} /></svelte:head>
+<svelte:head>
+	<link rel="icon" href={favicon} />
+	<title>Aspect of Momus</title>
+</svelte:head>
 <div class="navbar sticky top-0 bg-base-300">
 	<button class="btn text-xl btn-ghost">Aspect of Momus</button>
 </div>
